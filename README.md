@@ -1,6 +1,6 @@
-<p align="center">
+
 ![final](https://github.com/romarcastro/romarcastro/assets/122733274/8e4743e1-48dd-439e-a955-4cc08520b821)
-</p>
+
 <!--
 **romarcastro/romarcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
