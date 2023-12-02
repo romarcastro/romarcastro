@@ -1,4 +1,4 @@
-![fianna](https://github.com/romarcastro/romarcastro/assets/122733274/7c502160-9427-480f-9037-897d2bdcdd37)
+## Hello!
 <!--
 **romarcastro/romarcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
