@@ -1,3 +1,4 @@
+<img align="left" src="https://orhun.dev/img/crow.png">
 ## Hello!
 <!--
 **romarcastro/romarcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
