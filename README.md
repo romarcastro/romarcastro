@@ -1,5 +1,5 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
-## Hello!
+<img align="left" src="[https://orhun.dev/img/crow.png](https://tenor.com/view/8bit-cute-tired-cat-love-gif-18012239)">
+Yawns*
 <!--
 **romarcastro/romarcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
