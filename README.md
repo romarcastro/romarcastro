@@ -1,4 +1,5 @@
-<img align="left" src="https://github.com/romarcastro/romarcastro/assets/122733274/31782523-7937-4947-9213-915532988639" width=200>
+Hi
+<!-- <img align="left" src="https://github.com/romarcastro/romarcastro/assets/122733274/31782523-7937-4947-9213-915532988639" width=200>
 
 <!--![8bit-cute](https://github.com/romarcastro/romarcastro/assets/122733274/31782523-7937-4947-9213-915532988639)
 
