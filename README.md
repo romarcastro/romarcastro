@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/romarcastro/romarcastro/assets/122733274/31782523-7937-4947-9213-915532988639" width=200>
+<!--<img align="left" src="https://github.com/romarcastro/romarcastro/assets/122733274/31782523-7937-4947-9213-915532988639" width=200>
 
 <!-- <div align="center">
            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romarcastro&hide_border=true&layout=compact&theme=github_dark" align="center" />
