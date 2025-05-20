@@ -1,5 +1,5 @@
-
-<div align="center">
+![](https://komarev.com/ghpvc/?username=romarcastro&abbreviated=true&label=Views&style=plastic)
+<!-- <div align="center">
            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romarcastro&hide_border=true&layout=compact&theme=github_dark" align="center" />
         </div>  
 
